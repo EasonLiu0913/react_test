@@ -1,0 +1,33 @@
+.cat .bg-1{
+    background: blue;
+}
+
+.cat .bg-2{
+    background: lightblue;
+}
+
+.cat .bg-3{
+    background: #ccc;
+}
+
+.cat .bg-3:hover{
+    background: lightpink;
+}
+
+
+.dog .bg-1{
+    background: brown;
+}
+
+.dog .bg-2{
+    background: rgb(182, 89, 89);
+}
+
+.dog .bg-3{
+    background: #000;
+}
+
+
+.dog .bg-3:hover{
+    background: lightsalmon;
+}
